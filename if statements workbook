@@ -1,0 +1,91 @@
+#Question 34
+
+# num = int(input("Enter a integer: "))
+# if num % 2 == 0:
+#     print("This number is even")
+# else:
+#     print("This number is odd")
+
+#Question 35
+
+# human_years = int(input("Please enter your dog's age: "))
+# if human_years < 0:
+#     print("Please enter a valid age.")
+# else:
+#     if human_years == 1:
+#         print("Your dog is 10.5 years old in dog years.")
+#     elif human_years == 2:
+#         print("Your dog is 21 years old in dog years.")
+#     elif human_years >= 3:
+#         dog_age = ((human_years - 2) * 4 + 21) 
+#         print(f"Your dog is {dog_age} in dog years.")
+
+#  Exercise 36
+
+# print("Vowel or Consonant Program")
+# letter = input("Please enter a letter: ")
+
+# if letter in 'aeiou':
+#    print("Is a Vowel")
+# elif letter == "y":
+#    print("Sometimes a vowel, in other cases,a consonant")
+# else:
+#    print("Is Not a Vowel")
+
+#  Exercise 37
+
+# ("1 - 10 Sided Polygon Calculator Program")
+# num_sides = int(input("Please enter the number of sides in the shape: "))
+
+# if num_sides == 3:
+#    print("Triangle")
+
+# if num_sides == 4:
+#    print("Either a Square or a Rectangle")
+# elif num_sides == 5:
+#    print("Pentagon")
+# elif num_sides == 6:
+#    print("Hexagon")
+# elif num_sides == 7:
+#    print("Heptagon")
+# elif num_sides == 8:
+#    print("Octagon")
+# elif num_sides == 9:
+#    print("Nonagon")
+# elif num_sides == 10:
+#    print("Decagon")
+# else:
+#    print("ERROR")
+
+# # Exercise 48
+
+# print("Chinese Year of the ---- calculator")
+# year = int(input("Enter a year: "))
+# if year % 12 == 8:
+#    animal = "Dragon"
+# elif year % 12 == 9:
+#    animal = "Snake"
+# elif year % 12 == 10:
+#    animal = "Horse"
+# elif year % 12 == 11:
+#    animal = "Sheep"
+# elif year % 12 == 0:
+#    animal = "Monkey"
+# elif year % 12 == 1:
+#    animal = "Rooster"
+# elif year % 12 == 2:
+#    animal = "Dog"
+# elif year % 12 == 3:
+#    animal = "Pig"
+# elif year % 12 == 4:
+#    animal = "Rat"
+# elif year % 12 == 5:
+#    animal = "Ox"
+# elif year % 12 == 6:
+#    animal = "Tiger"
+# elif year % 12 == 7:
+#    animal = "hare"
+
+# print(animal)
+
+
