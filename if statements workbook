@@ -84,7 +84,7 @@
 # elif year % 12 == 6:
 #    animal = "Tiger"
 # elif year % 12 == 7:
-#    animal = "hare"
+#    animal = "Hare"
 
 # print(animal)
 
